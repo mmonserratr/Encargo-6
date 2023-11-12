@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Encargo 6</h1>
+<p>blendMode y Noise</p>
+</body>
+</html>
